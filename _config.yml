@@ -1,0 +1,14 @@
+layout_spectrum: 0.15521587524563074
+typography_spectrum: 0.7172495562117547
+color:
+  brandStrength: 0.8687185982707888
+  lightness: 0.09954612143337727
+  saturation: 0.8204563513863832
+  rhythmicContrast: 0.7378032875712961
+  brandColors:
+    - '#F6F792'
+    - '#333745'
+    - '#77C4D3'
+    - '#DAEDE2'
+    - '#EA2E49'
+name: JFA
